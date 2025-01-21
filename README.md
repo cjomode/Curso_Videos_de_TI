@@ -1,1 +1,6 @@
-# Curso_Videos_de_TI
+
+# Iniciando com Ruby e Orientação a Objetos
+- Módulo 1 - História, conceitos e instalação do Ruby
+- Módulo 2 - Ruby Básico
+- Módulo 3 - Programação Orientada a Objetos
+- Módulo 4 - Extras
